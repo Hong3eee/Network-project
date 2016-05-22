@@ -8,6 +8,7 @@ public class MainFrame extends JFrame {
 		MainFrame frame = new MainFrame();
 		frame.setVisible(true);
 		
+		
 	}
 	
 	public MainFrame()
