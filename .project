@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>network project</name>
+=======
+<<<<<<< HEAD
+	<name>network project</name>
+=======
+	<name>test for git</name>
+>>>>>>> branch 'master' of https://github.com/Hong3eee/Network-project
+>>>>>>> branch 'master' of https://github.com/Hong3eee/Network-project
 	<comment></comment>
 	<projects>
 	</projects>
